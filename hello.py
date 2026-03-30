@@ -1,1 +1,1 @@
-print("Mi primera vez solo ñam ñam")
+print("Mi primera vez solo jajaja")
